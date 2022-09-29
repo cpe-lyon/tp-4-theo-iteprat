@@ -12,6 +12,7 @@ Pour créer un alias permanent, il faut se rendre dans le fichier ```~/.bashrc``
 Pour obtenir les 5 derniers paquets  installés par la machine, on utilise la commande ```tail -5 /var/log/dpkg.log'
 
 ### 4 -
+![image](https://user-images.githubusercontent.com/113093094/192952254-4b867a38-d01e-4e69-9673-a1df2584e4be.png)
 
 
 ### 5 - 
